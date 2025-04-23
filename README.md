@@ -48,7 +48,7 @@ Este repositório foi desenvolvido como parte do desafio da **DIO (Digital Innov
 A seguir, algumas capturas de tela que ilustram o processo de criação, configuração e conexão com a máquina virtual no Microsoft Azure:
 
 ### 1. Criação da Máquina Virtual
-![Criação da VM](https://github.com/fernandofischer-pm/azure-vm-lab/raw/bdac8d64a8c2337d48f9fb967ccb5629aac1dd21/images/1-criacao-vm.png)
+![Criação da VM](https://github.com/fernandofischer-pm/azure-vm-lab/raw/main/images/1-criacao-vm.png)
 
 
 ### 2. Configuração da Instância
