@@ -50,21 +50,20 @@ A seguir, algumas capturas de tela que ilustram o processo de criação, configu
 ### 1. Criação da Máquina Virtual
 ![Criação da VM](https://github.com/fernandofischer-pm/azure-vm-lab/raw/main/images/1-criacao-vm.png)
 
-
 ### 2. Configuração da Instância
-![Configuração da Instância](https://github.com/fernandofischer-pm/azure-vm-lab/raw/bdac8d64a8c2337d48f9fb967ccb5629aac1dd21/images/2-configuracao.png)
+![Configuração da Instância](https://github.com/fernandofischer-pm/azure-vm-lab/raw/main/images/2-configuracao-vm.png)
 
-### 3. Conexão via RDP
-![Conexão via RDP](https://github.com/fernandofischer-pm/azure-vm-lab/raw/bdac8d64a8c2337d48f9fb967ccb5629aac1dd21/images/3-conexao-rdp.png)
+### 3. Acesso à Máquina Virtual
+![Acesso à VM](https://github.com/fernandofischer-pm/azure-vm-lab/raw/main/images/3-acesso-vm.png)
 
-### 4. Monitoramento de Uso de Memória
-![Uso de Memória](https://github.com/fernandofischer-pm/azure-vm-lab/raw/bdac8d64a8c2337d48f9fb967ccb5629aac1dd21/images/4-uso-memoria.png)
+### 4. Monitoramento de Desempenho
+![Desempenho da VM](https://github.com/fernandofischer-pm/azure-vm-lab/raw/main/images/4-desempenho-vm.png)
 
 ### 5. Visualização de Processos
-![Gerenciador de Tarefas](https://github.com/fernandofischer-pm/azure-vm-lab/raw/bdac8d64a8c2337d48f9fb967ccb5629aac1dd21/images/5-processos.png)
+![Processos da VM](https://github.com/fernandofischer-pm/azure-vm-lab/raw/main/images/5-processos-vm.png)
 
-### 6. Confirmação da Execução
-![Confirmação Final](https://github.com/fernandofischer-pm/azure-vm-lab/raw/bdac8d64a8c2337d48f9fb967ccb5629aac1dd21/images/6-confirmacao.png)
+### 6. Revisão da Criação
+![Revisão da Criação](https://github.com/fernandofischer-pm/azure-vm-lab/raw/main/images/6-revisao-criacao.png)
 
 
 ## 📚 Referências
