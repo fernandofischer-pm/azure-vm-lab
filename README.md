@@ -48,23 +48,22 @@ Este repositório foi desenvolvido como parte do desafio da **DIO (Digital Innov
 A seguir, algumas capturas de tela que ilustram o processo de criação, configuração e conexão com a máquina virtual no Microsoft Azure:
 
 ### 1. Criação da Máquina Virtual
-![Criação da VM](prints-azure/1-criacao-vm.png)
+![Criação da VM](https://github.com/fernandofischer-pm/azure-vm-lab/raw/bdac8d64a8c2337d48f9fb967ccb5629aac1dd21/images/1-criacao-vm.png)
 
 ### 2. Configuração da Instância
-![Configuração da Instância](prints-azure/2-configuracao.png)
+![Configuração da Instância](https://github.com/fernandofischer-pm/azure-vm-lab/raw/bdac8d64a8c2337d48f9fb967ccb5629aac1dd21/images/2-configuracao.png)
 
 ### 3. Conexão via RDP
-![Conexão via RDP](prints-azure/3-conexao-rdp.png)
+![Conexão via RDP](https://github.com/fernandofischer-pm/azure-vm-lab/raw/bdac8d64a8c2337d48f9fb967ccb5629aac1dd21/images/3-conexao-rdp.png)
 
 ### 4. Monitoramento de Uso de Memória
-![Uso de Memória](prints-azure/4-uso-memoria.png)
+![Uso de Memória](https://github.com/fernandofischer-pm/azure-vm-lab/raw/bdac8d64a8c2337d48f9fb967ccb5629aac1dd21/images/4-uso-memoria.png)
 
 ### 5. Visualização de Processos
-![Gerenciador de Tarefas](prints-azure/5-processos.png)
+![Gerenciador de Tarefas](https://github.com/fernandofischer-pm/azure-vm-lab/raw/bdac8d64a8c2337d48f9fb967ccb5629aac1dd21/images/5-processos.png)
 
 ### 6. Confirmação da Execução
-![Confirmação Final](prints-azure/6-confirmacao.png)
-
+![Confirmação Final](https://github.com/fernandofischer-pm/azure-vm-lab/raw/bdac8d64a8c2337d48f9fb967ccb5629aac1dd21/images/6-confirmacao.png)
 
 
 ## 📚 Referências
