@@ -45,23 +45,26 @@ Este repositório foi desenvolvido como parte do desafio da **DIO (Digital Innov
 
 ## 📸 Capturas de Tela
 
+A seguir, algumas capturas de tela que ilustram o processo de criação, configuração e conexão com a máquina virtual no Microsoft Azure:
+
 ### 1. Criação da Máquina Virtual
 ![Criação da VM](prints-azure/1-criacao-vm.png)
 
 ### 2. Configuração da Instância
-![Configuração](prints-azure/2-configuracao.png)
+![Configuração da Instância](prints-azure/2-configuracao.png)
 
 ### 3. Conexão via RDP
-![Conexão RDP](prints-azure/3-conexao-rdp.png)
+![Conexão via RDP](prints-azure/3-conexao-rdp.png)
 
-### 4. Verificando Desempenho
+### 4. Monitoramento de Uso de Memória
 ![Uso de Memória](prints-azure/4-uso-memoria.png)
 
-### 5. Gerenciador de Tarefas
-![Processos](prints-azure/5-processos.png)
+### 5. Visualização de Processos
+![Gerenciador de Tarefas](prints-azure/5-processos.png)
 
-### 6. Confirmação Final
-![Confirmação da VM](prints-azure/6-confirmacao.png)
+### 6. Confirmação da Execução
+![Confirmação Final](prints-azure/6-confirmacao.png)
+
 
 
 ## 📚 Referências
