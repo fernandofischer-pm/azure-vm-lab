@@ -49,6 +49,8 @@ A seguir, algumas capturas de tela que ilustram o processo de criação, configu
 
 ### 1. Criação da Máquina Virtual
 ![Criação da VM](https://github.com/fernandofischer-pm/azure-vm-lab/raw/bdac8d64a8c2337d48f9fb967ccb5629aac1dd21/images/1-criacao-vm.png)
+![Criação da VM](https://github.com/fernandofischer-pm/azure-vm-lab/raw/bdac8d64a8c2337d48f9fb967ccb5629aac1dd21/images/1-criacao-vm.png)
+
 
 ### 2. Configuração da Instância
 ![Configuração da Instância](https://github.com/fernandofischer-pm/azure-vm-lab/raw/bdac8d64a8c2337d48f9fb967ccb5629aac1dd21/images/2-configuracao.png)
